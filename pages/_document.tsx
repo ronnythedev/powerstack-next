@@ -14,6 +14,7 @@ export default class Document extends NextDocument {
         <body>
           <Main />
           <NextScript />
+          <span>test test</span>
         </body>
       </Html>
     )
